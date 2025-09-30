@@ -27,7 +27,7 @@
         }
 
         .logo {
-            font-size: 1.5rem;
+            font-size: 2rem;
             font-weight: 600;
             color: #111;
             text-decoration: none;
@@ -58,6 +58,7 @@
         .hero h1 {
             font-size: 2.5rem;
             font-weight: 400;
+            text-weight: bold;
             margin-bottom: 1rem;
             color: #111;
         }
